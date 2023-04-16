@@ -194,14 +194,22 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
+╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
-=========== • ✠ • ===========</b>"""
+💥 𝙅𝙊𝙄𝙉 :- @OceanCrew_Movies
+
+💥 𝙅𝙊𝙄𝙉 :- @fevo_music
+
+╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝
+
+
+
+🎗️SHARE AND SUPPORT 🎗️
+     
+    ❣️❣️❣️❣️
+
+
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
