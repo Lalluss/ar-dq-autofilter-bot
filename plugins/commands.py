@@ -48,6 +48,8 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callback_data='about'),
                     InlineKeyboardButton('✨ 𝐇𝐄𝐋𝐏 ✨', callback_data='help')
+                ],[
+                    InlineKeyboardButton('🔍𝚂𝙴𝙰𝚁𝙲𝙷 𝙼𝙾𝚅𝙸𝙴𝚂🔎 ', switch_inline_query_current_chat='')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
