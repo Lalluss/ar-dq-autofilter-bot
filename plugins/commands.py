@@ -26,7 +26,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🎧 𝐅𝐞𝐯𝐨 𝐌𝐮𝐬𝐢𝐜 🎧', url='https://t.me/fevo_music')
                 ],[
-                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callbackdata='about'),
+                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callback_data='about'),
                     InlineKeyboardButton('✨ 𝐇𝐄𝐋𝐏 ✨', callback_data='help')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -46,7 +46,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🎧 𝐅𝐞𝐯𝐨 𝐌𝐮𝐬𝐢𝐜 🎧', url='https://t.me/fevo_music')
                 ],[
-                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callbackdata='about'),
+                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callback_data='about'),
                     InlineKeyboardButton('✨ 𝐇𝐄𝐋𝐏 ✨', callback_data='help')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -91,7 +91,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🎧 𝐅𝐞𝐯𝐨 𝐌𝐮𝐬𝐢𝐜 🎧', url='https://t.me/fevo_music')
                 ],[
-                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callbackdata='about'),
+                    InlineKeyboardButton('🔰 𝘼𝘽𝙊𝙐𝙏 🔰', callback_data='about'),
                     InlineKeyboardButton('✨ 𝐇𝐄𝐋𝐏 ✨', callback_data='help')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
